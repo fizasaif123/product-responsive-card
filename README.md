@@ -1,4 +1,5 @@
-![Uploading image.png…]()
+![image](https://github.com/fizasaif123/product-responsive-card/assets/62798377/bacec606-860a-4846-9a9c-92372d9f2099)
+
 
 
 # Frontend Mentor - Product preview card component
